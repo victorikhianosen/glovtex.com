@@ -1,0 +1,10 @@
+1734874025a:1:{s:18:"ssl-validation.htm";a:8:{s:8:"fileName";s:18:"ssl-validation.htm";s:7:"content";s:213:"title = "SSL Validation"
+url = "/.well-known/pki-validation/CD9692E138A3D66C727B066746FE34EE.txt"
+is_hidden = 0
+==
+A8E83A6B2EE4D383BAC8AE89DB6A1EEC6E71B3E2707B3B119069BA1234DB46AC
+sectigo.com
+t0832685001658330699
+";s:5:"mtime";i:1658434202;s:6:"markup";s:97:"A8E83A6B2EE4D383BAC8AE89DB6A1EEC6E71B3E2707B3B119069BA1234DB46AC
+sectigo.com
+t0832685001658330699";s:4:"code";N;s:5:"title";s:14:"SSL Validation";s:3:"url";s:64:"/.well-known/pki-validation/CD9692E138A3D66C727B066746FE34EE.txt";s:9:"is_hidden";s:1:"0";}}

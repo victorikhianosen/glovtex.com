@@ -1,0 +1,9 @@
+1643267961a:1:{s:18:"ssl-validation.htm";a:8:{s:8:"fileName";s:18:"ssl-validation.htm";s:7:"content";s:213:"title = "SSL Validation"
+url = "/.well-known/pki-validation/C043924B5A13BE49A22374483A946CFE.txt"
+is_hidden = 0
+==
+5105E022C91A43201EE4ECFD9C7351903053294EC6588C8116E33D732FE049F3
+comodoca.com
+b20be1f277d4340446";s:5:"mtime";i:1633421008;s:6:"markup";s:98:"5105E022C91A43201EE4ECFD9C7351903053294EC6588C8116E33D732FE049F3
+comodoca.com
+b20be1f277d4340446";s:4:"code";N;s:5:"title";s:14:"SSL Validation";s:3:"url";s:64:"/.well-known/pki-validation/C043924B5A13BE49A22374483A946CFE.txt";s:9:"is_hidden";s:1:"0";}}

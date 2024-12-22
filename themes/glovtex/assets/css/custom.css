@@ -1,0 +1,14 @@
+.main-nav
+{
+    background-color: white;
+}
+
+.main-nav .container .nav-text .nav-list .scroll a
+{
+    color: black;
+}
+
+.footer .footer-bottom
+{
+    background-color: #7fc241;
+}

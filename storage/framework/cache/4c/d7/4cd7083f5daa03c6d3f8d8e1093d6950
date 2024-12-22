@@ -1,0 +1,62 @@
+1643267871a:1:{s:15:"home/footer.htm";a:6:{s:8:"fileName";s:15:"home/footer.htm";s:7:"content";s:1388:"==
+<footer id="footer">
+    <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+      <div class="container text-center">
+        <div class="footer-logo">
+          <a href="index.html"><img class="img-responsive" src="{{ 'assets/images/glovtex.png'|theme }}" alt=""></a>
+        </div>
+        <div class="social-icons">
+          <ul>
+            <li><a class="envelope" href="#"><i class="fa fa-envelope"></i></a></li>
+            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li> 
+            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a class="tumblr" href="#"><i class="fa fa-tumblr-square"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <p>&copy; {{ "now"|date("Y") }} Glovtex.</p>
+          </div>
+          <div class="col-sm-6">
+            <p class="pull-right">Crafted by <a href="https://novajii.com/web/" target="_blank">Novaji Introserve</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>";s:5:"mtime";i:1490714212;s:6:"markup";s:1385:"<footer id="footer">
+    <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+      <div class="container text-center">
+        <div class="footer-logo">
+          <a href="index.html"><img class="img-responsive" src="{{ 'assets/images/glovtex.png'|theme }}" alt=""></a>
+        </div>
+        <div class="social-icons">
+          <ul>
+            <li><a class="envelope" href="#"><i class="fa fa-envelope"></i></a></li>
+            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li> 
+            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a class="tumblr" href="#"><i class="fa fa-tumblr-square"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <p>&copy; {{ "now"|date("Y") }} Glovtex.</p>
+          </div>
+          <div class="col-sm-6">
+            <p class="pull-right">Crafted by <a href="https://novajii.com/web/" target="_blank">Novaji Introserve</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

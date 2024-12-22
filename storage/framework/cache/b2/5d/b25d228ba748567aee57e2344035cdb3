@@ -1,0 +1,134 @@
+1643267961a:1:{s:17:"layout/header.htm";a:6:{s:8:"fileName";s:17:"layout/header.htm";s:7:"content";s:4089:"==
+<section id="ext_menu-18">
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top">
+        <div class="container">
+
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+                       <a href="/" class="navbar-logo"><img src="https://glovtex.com/storage/app/media/slides/double-logo-188-122.png"  alt="Glovtex"></a>
+                        <!--<a href="/" class="navbar-logo"><img src="{{ 'assets/images/glovtex-logo-188x128.png'|theme }}" alt="Glovtex"></a>
+                        -->
+                        <!--a class="navbar-caption text-primary" href="https://mobirise.com"></a-->
+                    </div>
+
+                </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl" id="exCollapsingNavbar">
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'oil-and-gas'|page }}">GLOVTEX OIL AND GAS</a>
+                        </li>
+                        <!--
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'home'|page }}"><span class="mbri-home mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>HOME</a>
+                        </li>
+                      
+                        <li class="nav-item dropdown">
+                            <a class="nav-link link" href="{{ 'about-us'|page }}"><span class="mbri-user mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>ABOUT GLOVTEX</a>
+                        </li>
+                         
+                        <li class="nav-item dropdown">
+                            <a class="nav-link link" href="{{ 'management'|page }}"><span class="mbri-users mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>MANAGEMENT</a>
+                        </li>
+                        <li class="nav-item dropdown open">
+                            <a class="nav-link link dropdown-toggle" href="#" data-toggle="dropdown-submenu" aria-expanded="true"><span class="etl-icon icon-layers mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>PROJECTS</a>
+                            <div class="dropdown-menu">
+                                
+                                <a class="dropdown-item" href="{{ 'project'|page }}"><span class="etl-icon icon-layers mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>TURNKEY PROJECTS</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'policy'|page }}"><span class="etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>POLICY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'contact-us'|page }}"><span class="socicon socicon-viber mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>CONTACT US</a>
+                        </li>
+                         -->
+                         <li class="nav-item">
+                            <a class="nav-link link" href="http://staging.glovtex.com/" target="_blank">GLOVTEX TELECOMMUNICATION</a>
+                        </li>
+                    </ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>";s:5:"mtime";i:1637919730;s:6:"markup";s:4086:"<section id="ext_menu-18">
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top">
+        <div class="container">
+
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+                       <a href="/" class="navbar-logo"><img src="https://glovtex.com/storage/app/media/slides/double-logo-188-122.png"  alt="Glovtex"></a>
+                        <!--<a href="/" class="navbar-logo"><img src="{{ 'assets/images/glovtex-logo-188x128.png'|theme }}" alt="Glovtex"></a>
+                        -->
+                        <!--a class="navbar-caption text-primary" href="https://mobirise.com"></a-->
+                    </div>
+
+                </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl" id="exCollapsingNavbar">
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'oil-and-gas'|page }}">GLOVTEX OIL AND GAS</a>
+                        </li>
+                        <!--
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'home'|page }}"><span class="mbri-home mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>HOME</a>
+                        </li>
+                      
+                        <li class="nav-item dropdown">
+                            <a class="nav-link link" href="{{ 'about-us'|page }}"><span class="mbri-user mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>ABOUT GLOVTEX</a>
+                        </li>
+                         
+                        <li class="nav-item dropdown">
+                            <a class="nav-link link" href="{{ 'management'|page }}"><span class="mbri-users mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>MANAGEMENT</a>
+                        </li>
+                        <li class="nav-item dropdown open">
+                            <a class="nav-link link dropdown-toggle" href="#" data-toggle="dropdown-submenu" aria-expanded="true"><span class="etl-icon icon-layers mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>PROJECTS</a>
+                            <div class="dropdown-menu">
+                                
+                                <a class="dropdown-item" href="{{ 'project'|page }}"><span class="etl-icon icon-layers mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>TURNKEY PROJECTS</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'policy'|page }}"><span class="etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>POLICY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" href="{{ 'contact-us'|page }}"><span class="socicon socicon-viber mbr-iconfont mbr-iconfont-btn" style="color: rgb(249, 115, 82);"></span>CONTACT US</a>
+                        </li>
+                         -->
+                         <li class="nav-item">
+                            <a class="nav-link link" href="http://staging.glovtex.com/" target="_blank">GLOVTEX TELECOMMUNICATION</a>
+                        </li>
+                    </ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

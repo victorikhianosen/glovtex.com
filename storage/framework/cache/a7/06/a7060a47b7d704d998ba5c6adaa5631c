@@ -1,0 +1,80 @@
+1734655199a:1:{s:18:"project/header.htm";a:6:{s:8:"fileName";s:18:"project/header.htm";s:7:"content";s:2589:"==
+<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-1k" style="background-image: url(themes/glovtex-v3/assets/images/wireless-2000x1142.jpg);">
+
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(255, 255, 255);">
+    </div>
+
+    <div class="mbr-table mbr-table-full">
+        <div class="mbr-table-cell">
+
+            <div class="container">
+                <div class="mbr-section row">
+                    <div class="mbr-table-md-up">
+                        
+                        
+                        
+
+                        <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+
+                            <h3 class="mbr-section-title display-2">TURNKEY PROJECTS / RF PROJECTS:<br></h3>
+
+                            <div class="mbr-section-text">
+                                <p><strong>We honestly believe that to be able to offer truly Turnkey service, you must be knowledgeable about requirements and key challenges facing mobile network operators. Thus we have spent considerable time and effort to build our professional team of Managers and Engineers, all experts on their domain along with good customer relationship and team building skills. We deliver services focused on quality and sustainability based on an approach of Trust and Partnership rather than short-term gain. <br>	Concerning Site build projects, we are well detailed including lead times for civil works and all necessary technical information. Below are some of the jobs handled by Glovtex professional team.<br>Other Sites where we have been involved are shown below. It extends to power, generator and diesel tank, cabling and antenna alignment and transmission (to show very few):</strong><br></p>
+                            </div>
+
+                            <div class="mbr-section-btn"><a class="btn btn-secondary" href="{{ 'more-project'|page }}">MORE</a></div>
+
+                        </div>
+                        <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
+                            <div class="mbr-figure"><img src="{{ 'assets/images/proj2-1400x990.jpg'|theme }}"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#header3-1o"><i class="mbr-arrow-icon"></i></a></div>
+
+</section>";s:5:"mtime";i:1495111023;s:6:"markup";s:2586:"<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-1k" style="background-image: url(themes/glovtex-v3/assets/images/wireless-2000x1142.jpg);">
+
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(255, 255, 255);">
+    </div>
+
+    <div class="mbr-table mbr-table-full">
+        <div class="mbr-table-cell">
+
+            <div class="container">
+                <div class="mbr-section row">
+                    <div class="mbr-table-md-up">
+                        
+                        
+                        
+
+                        <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+
+                            <h3 class="mbr-section-title display-2">TURNKEY PROJECTS / RF PROJECTS:<br></h3>
+
+                            <div class="mbr-section-text">
+                                <p><strong>We honestly believe that to be able to offer truly Turnkey service, you must be knowledgeable about requirements and key challenges facing mobile network operators. Thus we have spent considerable time and effort to build our professional team of Managers and Engineers, all experts on their domain along with good customer relationship and team building skills. We deliver services focused on quality and sustainability based on an approach of Trust and Partnership rather than short-term gain. <br>	Concerning Site build projects, we are well detailed including lead times for civil works and all necessary technical information. Below are some of the jobs handled by Glovtex professional team.<br>Other Sites where we have been involved are shown below. It extends to power, generator and diesel tank, cabling and antenna alignment and transmission (to show very few):</strong><br></p>
+                            </div>
+
+                            <div class="mbr-section-btn"><a class="btn btn-secondary" href="{{ 'more-project'|page }}">MORE</a></div>
+
+                        </div>
+                        <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
+                            <div class="mbr-figure"><img src="{{ 'assets/images/proj2-1400x990.jpg'|theme }}"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#header3-1o"><i class="mbr-arrow-icon"></i></a></div>
+
+</section>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

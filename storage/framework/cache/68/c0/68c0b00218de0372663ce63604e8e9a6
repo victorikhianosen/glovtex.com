@@ -1,0 +1,110 @@
+1734874025a:1:{s:17:"layout/footer.htm";a:6:{s:8:"fileName";s:17:"layout/footer.htm";s:7:"content";s:3118:"==
+<!--
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-1a" style="background-color: fff; padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                 <div><img style="width: 100px; height:100px" src="https://glovtex.com/storage/app/media/oil.jpg"></div> 
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p style="color: black"><strong>Glovtex Oil and Gas</strong><br>At Glovtex Oil and Gas limited, we offer services in various engineering constructions with our preventive and corrective operations and maintenance.<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p style="color: black"><strong>Glovtex Telecommunication</strong><br>We are specialized in the development of telecommunications services solutions for the GSM and wireless communication industry.
+                    We render services ranging from wireless and transmission services, network roll out and deployment to core network upgrade, expansion and deployment.</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><br><br></p>
+            </div>
+         <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img style="width: 100px; height:100px" src="https://glovtex.com/storage/app/media/comm.png"></div> 
+            </div>
+        </div>
+    </div>
+</section>
+-->
+<!--
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-1a" style="background-color: rgb(0, 0, 0); padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img src="{{ 'assets/images/about55-128x85.jpg'|theme }}"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Address</strong><br>HEAD OFFICE: 26 Tombia Street, GRA Phase II, Port Harcourt, Rivers State.<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Contacts</strong><br>TELEPHONE:	+234-807-218-4699<br>                       +234-802-313-3140 <br>                       +234-817-459-7166<br><br>E-MAIL:	 solutions@glovtex.com<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><br><br></p>
+            </div>
+
+        </div>
+    </div>
+</section
+-->
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-4" style="background-color: rgb(245, 130, 32); padding-top: 0.875rem; padding-bottom: 0.875rem;">
+    
+    <div class="container">
+        <p class="text-xs-center">Copyright (c) 2021 &nbsp;Glovtex.
+        <!--<br>Powered by <a href="https://novajii.com" class="text-white">Novaji Introserve</a>-->
+        </p>
+    </div>
+</footer>";s:5:"mtime";i:1637917584;s:6:"markup";s:3115:"<!--
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-1a" style="background-color: fff; padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                 <div><img style="width: 100px; height:100px" src="https://glovtex.com/storage/app/media/oil.jpg"></div> 
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p style="color: black"><strong>Glovtex Oil and Gas</strong><br>At Glovtex Oil and Gas limited, we offer services in various engineering constructions with our preventive and corrective operations and maintenance.<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p style="color: black"><strong>Glovtex Telecommunication</strong><br>We are specialized in the development of telecommunications services solutions for the GSM and wireless communication industry.
+                    We render services ranging from wireless and transmission services, network roll out and deployment to core network upgrade, expansion and deployment.</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><br><br></p>
+            </div>
+         <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img style="width: 100px; height:100px" src="https://glovtex.com/storage/app/media/comm.png"></div> 
+            </div>
+        </div>
+    </div>
+</section>
+-->
+<!--
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-1a" style="background-color: rgb(0, 0, 0); padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img src="{{ 'assets/images/about55-128x85.jpg'|theme }}"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Address</strong><br>HEAD OFFICE: 26 Tombia Street, GRA Phase II, Port Harcourt, Rivers State.<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Contacts</strong><br>TELEPHONE:	+234-807-218-4699<br>                       +234-802-313-3140 <br>                       +234-817-459-7166<br><br>E-MAIL:	 solutions@glovtex.com<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><br><br></p>
+            </div>
+
+        </div>
+    </div>
+</section
+-->
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-4" style="background-color: rgb(245, 130, 32); padding-top: 0.875rem; padding-bottom: 0.875rem;">
+    
+    <div class="container">
+        <p class="text-xs-center">Copyright (c) 2021 &nbsp;Glovtex.
+        <!--<br>Powered by <a href="https://novajii.com" class="text-white">Novaji Introserve</a>-->
+        </p>
+    </div>
+</footer>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

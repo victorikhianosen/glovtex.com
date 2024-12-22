@@ -1,0 +1,8 @@
+1734874025a:1:{s:11:"project.htm";a:9:{s:8:"fileName";s:11:"project.htm";s:7:"content";s:140:"title = "Project"
+url = "/project"
+layout = "Layout/default"
+is_hidden = 0
+==
+{% partial 'project/header' %}
+{% partial 'project/client' %}";s:5:"mtime";i:1495106265;s:6:"markup";s:62:"{% partial 'project/header' %}
+{% partial 'project/client' %}";s:4:"code";N;s:5:"title";s:7:"Project";s:3:"url";s:8:"/project";s:6:"layout";s:14:"Layout/default";s:9:"is_hidden";s:1:"0";}}
